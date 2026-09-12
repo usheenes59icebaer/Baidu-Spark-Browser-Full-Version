@@ -238,3 +238,6 @@ This repository serves as the official landing page for Baidu Spark Browser. The
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Baidu Spark Browser today!**
+
+---
+**Last updated:** 2026-09-12 15:56:58 UTC
